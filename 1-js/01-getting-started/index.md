@@ -1,3 +1,5 @@
-# Введение
+let admin, name;
+admin = 'Djon'
+name = 'admin'
+alert(admin)'
 
-Про язык JavaScript и окружение для разработки на нём.
